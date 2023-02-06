@@ -1,7 +1,8 @@
 # qit
 A quirky CLI for interacting with git.
 ## Installation
-***make sure you have ~/.bin in your $PATH***
+| ***Make sure you have ~/.bin in your $PATH.*** |
+|---|
 ```bash
 git clone https://github.com/alexvasilkovski/qit
 cd qit
